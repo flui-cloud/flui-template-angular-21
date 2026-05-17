@@ -2,8 +2,16 @@ node_modules
 dist
 .angular
 .git
+.gitignore
 .env
 .env.local
+.env.*.local
 README.md
 .dockerignore
 Dockerfile
+.vscode
+.idea
+.DS_Store
+*.log
+npm-debug.log*
+coverage
